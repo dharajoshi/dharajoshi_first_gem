@@ -11,9 +11,9 @@
     } else {
       // extend default options with passed ones
       var options = $.extend({
-        height: 90,
-        width: 90,
-        scale: 1.5
+        height: 150,
+        width: 150,
+        scale: 2.0
       }, options);
       this.data("is_destroyed", false);
     }
